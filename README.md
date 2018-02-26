@@ -1,7 +1,7 @@
 <div align="center">
-<h1>cross-env 🔀</h1>
+<h1>cross-env-default 🔀</h1>
 
-Run scripts that set and use environment variables across platforms
+Run scripts that set and use environment variables across platforms. Supports setting default values.
 
 </div>
 
